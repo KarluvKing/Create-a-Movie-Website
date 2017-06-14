@@ -1,7 +1,7 @@
 # Create-a-Movie-Website
 Create a Movie Websitez - Project of the Nanodegree of Introduction to Programming of Udacity.
 
-Second Udacity Nanodegree Python - HTML + CSS project: Introduction to programming.
+Second Udacity Nanodegree Python project: Introduction to programming.
 
 Purpose of the code:
 - Create a Python class that defined the structure of a movie.
